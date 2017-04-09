@@ -1,5 +1,5 @@
 /**
- * Created by minhduong on 4/1/17.
+ * Created by williamuong on 4/1/17.
  */
 import java.math.BigInteger;
 import java.util.Random;
